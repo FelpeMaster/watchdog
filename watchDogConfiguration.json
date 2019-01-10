@@ -1,0 +1,17 @@
+{
+  "databasesPath":{
+    "d0":"/home/pi/Documentos/hd350manometer/database/hd350Data.csv",
+    "d1":"/home/pi/Documentos/receiverArduino/database/database.csv",
+    "d2":"/home/pi/Documentos/receiverArduino/database/dataram.csv"
+  },
+  "sizeFile":{
+    "s0":0,
+    "s1":0,
+    "s2":0
+  },
+  "services":{
+    "se0":"hd350.service",
+    "se1":"arduino.service",
+    "se2":"dr4000.service"
+  }
+}
